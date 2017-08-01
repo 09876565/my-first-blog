@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '!pzm@^h51j12-j)^utzlvd46+uoxnpjzhj3ga02h+!om-a68h_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = TRUE 
+DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<chips.ahui>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'huishi.pythonanywhere.com']
 
 
 # Application definition
